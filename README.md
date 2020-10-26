@@ -1,1 +1,1 @@
-# strona-is
+# Informatyka Stosowana — Politechnika Krakowska
